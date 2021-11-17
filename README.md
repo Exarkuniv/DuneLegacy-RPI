@@ -7,6 +7,6 @@ Dune Legacy is an effort by a handful of developers to revitalize the first-ever
 It tries to be as similar as possible to the original gameplay but to integrate user interface features most modern realtime-strategy games have like selecting multiple units
 
 ```
-wget https://raw.githubusercontent.com/Exarkuniv/Doom-3-RPI/Master/dhewm3.sh -P $HOME/RetroPie-Setup/scriptmodules/ports/
+wget https://raw.githubusercontent.com/Exarkuniv/DuneLegacy-RPI/Master/dunelegacy.sh -P $HOME/RetroPie-Setup/scriptmodules/ports/
 ```
 
