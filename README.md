@@ -1,4 +1,4 @@
-# DuneLegacy-RPI
+# Dune Legacy-RPI
 Dune Legacy for the Pi4
 ![screenshot](http://dunelegacy.sourceforge.net/website/screenshots/Dunelegacy-0.96-mission9-2.png)
 
